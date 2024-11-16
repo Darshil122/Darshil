@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Darshil Dabhi</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=darshil122&label=Profile%20views&color=0e75b6&style=flat" alt="darshil122" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darshil122" alt="darshil122" /></a> </p>
 
 - 🔭 I’m currently working on **OPD Appointment Management System**
